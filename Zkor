@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,A&E HD
+http://190.90.154.73:8080/play/a00o/index.m3u8
+#EXTINF:-1,AMC
+http://190.90.154.73:8080/play/a07m/index.m3u8
+#EXTINF:-1,AMC HD
+http://190.90.154.73:8080/play/a03e/index.m3u8
+#EXTINF:-1,ATV
+http://190.90.154.73:8080/play/a00g/index.m3u8
+#EXTINF:-1,AXN
+http://190.90.154.73:8080/play/a01l/index.m3u8
+#EXTINF:-1,AXN HD
+http://190.90.154.73:8080/play/a00r/index.m3u8
+#EXTINF:-1,Animal Planet
+http://190.90.154.73:8080/play/a07f/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://190.90.154.73:8080/play/a03m/index.m3u8
+#EXTINF:-1,Antena 3
+http://190.90.154.73:8080/play/a06w/index.m3u8
+#EXTINF:-1,BBC World
+http://190.90.154.73:8080/play/a08h/index.m3u8
+#EXTINF:-1,Baby TV
+http://190.90.154.73:8080/play/a08c/index.m3u8
+#EXTINF:-1,ByM Sport
+http://190.90.154.73:8080/play/a04x/index.m3u8
+#EXTINF:-1,CNN Espaæol
+http://190.90.154.73:8080/play/a08g/index.m3u8
